@@ -1,0 +1,6 @@
+﻿  caroGame.cpp
+C:\Users\Admin\Desktop\client-server\project_fsoft\project_fsoft\caroGame.cpp(163): warning C4715: 'viewPlay::checkWin': not all control paths return a value
+  main2.cpp
+C:\Users\Admin\Desktop\client-server\project_fsoft\project_fsoft\main2.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\client-server\project_fsoft\project_fsoft\main2.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+  project_fsoft.vcxproj -> C:\Users\Admin\Desktop\client-server\project_fsoft\Debug\project_fsoft.exe

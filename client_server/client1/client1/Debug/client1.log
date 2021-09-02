@@ -1,0 +1,3 @@
+﻿  caroGame.cpp
+C:\Users\Admin\source\repos\client1\client1\caroGame.cpp(162): warning C4715: 'viewPlay::checkWin': not all control paths return a value
+  client1.vcxproj -> C:\Users\Admin\source\repos\client1\Debug\client1.exe

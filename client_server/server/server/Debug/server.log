@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\server\server\Source.cpp(152,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\server\server\Source.cpp(30,10): warning C4101: 'recvbuf': unreferenced local variable
+C:\Users\Admin\source\repos\server\server\Source.cpp(29,9): warning C4101: 'iSendResult': unreferenced local variable
+  server.vcxproj -> C:\Users\Admin\source\repos\server\Debug\server.exe
